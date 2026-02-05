@@ -1,0 +1,8 @@
+Car Rental System
+A Java-based system demonstrating OOP principles.
+
+ Features
+ Secure login with 3 attempts
+ Password masking with asterisks 
+ Car, Customer, and RentalAgency classes
+
